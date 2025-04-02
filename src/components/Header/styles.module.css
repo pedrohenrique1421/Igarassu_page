@@ -1,0 +1,39 @@
+.Container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem 1.5rem 1rem;
+  background: #f2fff9;
+}
+
+.Container img {
+  width: 110px;
+}
+
+.Container button {
+  padding: 1rem 0.675rem;
+  border-radius: 15px;
+  border: none;
+  background-color: #09824cc2;
+  color: #f1f1f1;
+  font-size: 1.25rem;
+  font-weight: 500;
+}
+
+.Container .navBar {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.Container .navBar a {
+  text-decoration: none;
+  color: initial;
+  font-size: 1.25rem;
+  font-weight: 500;
+}
+
+.Container .navBar span {
+  height: 2rem;
+  border: solid #000 1px;
+}

@@ -1,0 +1,6 @@
+.Container .content {
+  display: flex;
+  flex-direction: column;
+  padding: 0 7.5% 2rem;
+  gap: 4rem;
+}
